@@ -4,6 +4,12 @@ This repository provides a native **Windows DLL** that exposes three exported fu
 
 ---
 
+## Download DLL
+- Download From Releases - https://github.com/vinayak-vc/WindowsFileDialogDLL/releases
+
+---
+
+
 ## Features
 - Open a standard file open dialog for any file.
 - Open a filtered file open dialog with specific extensions.
