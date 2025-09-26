@@ -109,7 +109,7 @@ using System;
 using System.Runtime.InteropServices;
 
 public static class FileExplorer {
-    private const string WindowsFileDialog = "YourNativeDllName.dll";
+    private const string WindowsFileDialog = "WindowsFileDialog.dll";
 
     [DllImport(WindowsFileDialog, CharSet = CharSet.Unicode)]
     private static extern IntPtr OpenWindowsFile(string initialDir);
